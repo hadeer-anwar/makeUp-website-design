@@ -1,0 +1,6 @@
+#b34647
+#d66363
+#f77170
+#f59c9c
+#e5cbba
+background-color:#efd5b6;
